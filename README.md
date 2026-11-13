@@ -14,7 +14,7 @@ I'm a passionate **AI & Data Science Student** with experience in **Python, HTML
 - 📫 How to reach me: [**minatoonlinestore01@gmail.com**](mailto\:minatoonlinestore01@gmail.com)
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
-## My Skills 🧠
+## My Skills🧠 
 
 
 
